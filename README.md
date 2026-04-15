@@ -7,10 +7,10 @@ This project demonstrates the combined use of two behavioral design patterns:
 
 ## Class Diagrams
 ### Task 1: Strategy Pattern
-![Strategy Diagram](Task1_ClassDiagram.png)
+![Strategy Diagram](class Diagram_ 1.jpeg)
 
 ### Task 2: Combined Patterns
-![Template Diagram](Task2_ClassDiagram.png)
+![Template Diagram](class Diagram_ 2.jpeg)
 
 ## How to Run
 1. Clone the repository.
